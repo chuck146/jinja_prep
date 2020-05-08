@@ -1,3 +1,3 @@
 # jinja_prep
 
-* Jinja Module for practice*
+* Jinja Module and cool stuff
